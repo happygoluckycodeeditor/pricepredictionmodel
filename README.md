@@ -34,3 +34,6 @@ Now I will remove all the values which are non-numerical and check for correlati
 
 ![image](https://user-images.githubusercontent.com/110551323/219977838-94522013-a134-4b26-a93b-877ea6f98656.png)
 
+As you can see, the data is there but it can be a little difficult to visualise, so lets create a heatmap and check the correlations
+
+![image](https://user-images.githubusercontent.com/110551323/219977894-079d5516-7d13-4bbb-b61f-1f08195f5319.png)
